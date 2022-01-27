@@ -1,3 +1,10 @@
 # AI-and-Data-Science-Journey
 
-I dont know what to put here, just that there is a lot of deep learning and search algo being used for this.
+You can finds things like
+<ul>
+  <li>Search algorithms(bfs, dfs, A*, etc)</li>
+  <li>Games using Min/Max and alpha/beta algorithms</li>
+  <li>Fuzzy sets</li>
+  <li>Prediction Models</li>
+  <li>Deep Learning</li>
+</ul>
